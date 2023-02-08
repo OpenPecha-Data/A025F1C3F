@@ -1,0 +1,22 @@
+id: A025F1C3F
+title: 'PP: Ratnaguṇasaṃcayagāthā'
+type: translation
+pechas:
+- IE003A5FA
+- IAFF72048
+- I9E1614F8
+- IF8EE7399
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:20:57.967639
+  last_modified_at: 2023-02-08 15:20:57.967650
+alignment_to_base:
+  IE003A5FA/04A1: '6516'
+  IAFF72048/C786: '6516'
+  I9E1614F8/C33B: '6516'
+  IF8EE7399/B3B0: '6516'
